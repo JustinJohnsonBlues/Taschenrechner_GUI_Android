@@ -10,7 +10,7 @@ or:
 buildozer -v android debug deploy run logcat
 witch will give the log back to terminal
 
-For IOS?:
+For IOS? (works just on Mac Mashines):
 buildozer ios deploy run
 
 Or just create the APK:
