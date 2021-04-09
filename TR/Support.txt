@@ -1,0 +1,3 @@
+Supported Andorid Version: 5.0 up == API level 21
+
+https://developer.android.com/studio/releases/platforms

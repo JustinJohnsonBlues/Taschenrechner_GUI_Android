@@ -1,0 +1,17 @@
+To initialize virtual Environment:
+source kivy_venv/bin/activate
+
+To init a new Project with Buildozer:
+buildozer init
+
+To build push and run APK (if one already compiles once):
+buildozer android debug deploy run
+or:
+buildozer -v android debug deploy run logcat
+witch will give the log back to terminal
+
+For IOS?:
+buildozer ios deploy run
+
+Or just create the APK:
+buildozer -v android debug

@@ -1,0 +1,8 @@
+Main: #166f70	rgb(22, 111, 112)		NUMBERS
+Control:#cfe5e6	rgb(207, 229, 230) 		NONE
+1: #00979c	rgb(0, 151, 156)		ANS/CL/CR
+2: #00696d	rgb(0, 105, 109)		*/+-
+3: #bffdff	rgb(191, 253, 255)		ENTRY-FIELD
+
+CONTRAST: #ff6800	rgb(255, 104, 0)	NONE
+Contrast: #ffa466	rgb(255, 164, 102) 	EQUALSBUTTON
